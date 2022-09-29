@@ -1,6 +1,6 @@
 # Categories:
-- [Navigation](https://github.com/zerosdevz/open-source-telegram-bots/new/main#navigation)
-- [Tools](https://github.com/zerosdevz/open-source-telegram-bots/new/main#tools)
+- Navigation
+- Tools
 
 ## Navigation:
 - [OSMbot](https://t.me/OSMbot): OSMbot can search in OpenStreetMap database: addresses, maps, etc. Also in inline mode. [Code](https://github.com/Xevib/osmbot).
